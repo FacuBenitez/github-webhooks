@@ -40,4 +40,4 @@ Este archivo se encarga de cargar las variables de entorno desde un archivo `.en
 
 - `DISCORD_WEBHOOK_URL`: La URL del webhook de Discord que recibirá las notificaciones.
 - `GITHUB_WEBHOOK_SECRET`: El secreto utilizado para configurar el webhook de GitHub.
--`PORT`: El puerto a utilizar en desarrollo de la app
+- `PORT`: El puerto a utilizar en desarrollo de la app
